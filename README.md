@@ -1,4 +1,5 @@
-![Banner](Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner%20(1).png)
+![Banner]([Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner%20(1).png](https://github.com/ASHWINI-JAMDADE/ASHWINI-JAMDADE/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner%20(1).png))
+![Banner]()
 
 <h1 align="center">Hi 👋, I'm ASHWINI M. JAMDADE</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
